@@ -15,5 +15,6 @@ We can reconstruct the original image:
 ![Progress](https://raw.githubusercontent.com/cwg45/Image-Reconstruction/master/progress.gif)
 
 Citations:
+
 J. R. Fienup, "Phase retrieval algorithms: a comparison," Appl. Opt. 21, 2758-2769 (1982)
 
